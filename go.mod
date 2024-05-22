@@ -1,3 +1,3 @@
-module github.com/vishal-sharma-001/go_tutorials.git
+module go_tutorials
 
-go 1.22.3
+go 1.20
